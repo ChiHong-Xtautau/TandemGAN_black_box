@@ -7,7 +7,7 @@ Knowledge Discovery in Databases, pp. 20-35., 2023."
 An example of running the algorithm is shown in "run.py".
 
 # To run this file
-The project is developed under python 3.8.10
+The project is developed under python 3.8.10. If you use a newer version of Python, some dependency packages may fail to install.
 
 - pip install -r requirements.txt
 - python run.py
