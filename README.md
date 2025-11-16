@@ -14,3 +14,8 @@ The project is developed under python 3.8.10. If you use a newer version of Pyth
 
 # Note
 - ms_ee_attack.MSEEAttack is the class of the proposed algorithm.
+
+# Expected Results
+- You will see the target model accuracy is 93.09 %
+- The accuracy of the substitute model will increaces with training over multiple epochs
+- one training log is shown in "./example_run.log"
